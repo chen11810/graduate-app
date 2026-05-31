@@ -1,4 +1,4 @@
-# graduate-Academic Workflow & Well-being Management Tool ｜ 硕士生工位打卡与时间管理系统
+# graduate Academic Workflow & Well-being Management Tool ｜ 硕士生工位打卡与时间管理系统
 
 ---
 
