@@ -19,12 +19,12 @@ The app is built with clean, modern web technologies and can be deployed instant
 
 1. **Clone the repository**:
 ```bash
-   git clone [https://github.com/chen11810/graduate-app.git](https://github.com/chen11810/graduate-app.git)
+   git clone [https://github.com/chen11810/graduate_Academic_Workflow1.git]
 
 ```
 
 2. **Run locally**:
 Simply open `index.html` in your favorite web browser, or serve it using VS Code's Live Server.
 3. **Live Demo**:
-Visit the live system at: [https://chen11810.github.io/graduate-app/](https://www.google.com/search?q=https://chen11810.github.io/graduate-app/)
+Visit the live system at: (https://chen11810.github.io/graduate_Academic_Workflow1/)]
 
