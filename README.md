@@ -4,7 +4,7 @@
 
 ## ✦ 介绍
 
-`graduate-app` is an open-source, self-hosted workflow and time-management toolkit specifically designed for graduate students and researchers. It bridges the gap between intense academic pressure and personal well-being by providing a single, private dashboard to track both research progress and daily health metrics.
+`graduate Academic Workflow & Well-being Management Tool` is an open-source, self-hosted workflow and time-management toolkit specifically designed for graduate students and researchers. It bridges the gap between intense academic pressure and personal well-being by providing a single, private dashboard to track both research progress and daily health metrics.
 
 ### 🌟 Key Features
 
