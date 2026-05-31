@@ -1,10 +1,10 @@
-# graduate Academic Workflow & Well-being Management Tool ｜ 硕士生工位打卡与时间管理系统
+# graduate_Academic_Workflow1｜ 硕士生工位打卡与时间管理系统
 
 ---
 
 ## ✦ 介绍
 
-`graduate Academic Workflow & Well-being Management Tool` is an open-source, self-hosted workflow and time-management toolkit specifically designed for graduate students and researchers. It bridges the gap between intense academic pressure and personal well-being by providing a single, private dashboard to track both research progress and daily health metrics.
+`graduate_Academic_Workflow1` is an open-source, self-hosted workflow and time-management toolkit specifically designed for graduate students and researchers. It bridges the gap between intense academic pressure and personal well-being by providing a single, private dashboard to track both research progress and daily health metrics.
 
 ### 🌟 Key Features
 
